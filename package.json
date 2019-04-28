@@ -23,5 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://mtgoodrich.github.io/cat-egory/"
+  "homepage": "https://mtgoodrich.github.io/cat-egory/build"
 }
