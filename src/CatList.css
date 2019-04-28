@@ -1,0 +1,22 @@
+.bordered {
+  display: flex;
+  border-bottom: 1px solid #efefef;
+}
+.bordered-body {
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.cat-list {
+  margin: 25px 0 15px;
+}
+
+.cat-list__image-wrapper {
+  margin: 10px 0;
+  height: 200px;
+  overflow: hidden;
+}
+
+.cat-list__image-wrapper--image {
+  width: 100%;
+  object-fit: contain;
+}
