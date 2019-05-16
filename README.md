@@ -1,5 +1,7 @@
 ### Cat-egory Collector
+Completed and live at: https://mtgoodrich.github.io/cat-egory/
 
+Coding Challenge:
 Create a javascript application that connects to http://aws.random.cat to pull random cat images. 
 
 - The page should show a random cat image on load
